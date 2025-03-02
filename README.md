@@ -2,6 +2,9 @@
 
 This project presents an interactive **Coffee Shop Sales Dashboard** built using **Microsoft Excel** to analyze key sales and customer insights. The dashboard provides a visual representation of sales trends, product performance, and customer behavior.  
 
+## 📷 Dashboard Preview  
+
+![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20dashboard.png)  
 ## 📊 Dashboard Features  
 
 - **Total Sales & Footfall Overview**  
@@ -34,10 +37,6 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 ## 🛠 Tools Used  
 
 - **Microsoft Excel** (Pivot Tables, Charts, Slicers, Conditional Formatting)  
-
-## 📷 Dashboard Preview  
-
-![Coffee Shop Sales Dashboard](Coffee%20Shop%20Sales%20dashboard.png)  
 
 ## 🔥 Key Insights  
 
