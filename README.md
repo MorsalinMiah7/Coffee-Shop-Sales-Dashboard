@@ -37,7 +37,7 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
 
 ## 📷 Dashboard Preview  
 
-![Coffee Shop Sales Dashboard](image.png)  
+![Coffee Shop Sales Dashboard](Coffee Shop Sales dashboard.png)  
 
 ## 🔥 Key Insights  
 
