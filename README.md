@@ -26,7 +26,7 @@ This project presents an interactive **Coffee Shop Sales Dashboard** built using
   - Bar chart comparing customer visits and sales across different store locations.  
 
 - **Revenue on Weekdays**  
-  - Bar chart analyzing daily revenue trends, showing peak and low sales days.  
+  - The bar chart analyzes daily revenue trends, showing peak and low sales days.  
 
 ## 📌 Filters Available  
 
